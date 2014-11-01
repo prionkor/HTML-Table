@@ -1,0 +1,6 @@
+{
+    "name": "prionkor/tbs-table",
+    "description": "PHP class for creating Twitter Bootstrap HTML Table",
+    "keywords": ["twitter bootstrap, HTML, Table"],
+    "license": "MIT"
+}
