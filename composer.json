@@ -2,5 +2,18 @@
     "name": "prionkor/tbs-table",
     "description": "PHP class for creating Twitter Bootstrap HTML Table",
     "keywords": ["twitter bootstrap, HTML, Table"],
-    "license": "MIT"
+    "license": "MIT",
+    "author" :  [
+        {
+            "name": "Sisir Kanti Adhikari",
+            "email": "sisir@tutremix.com",
+            "homepage": "http://developerpage.net"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "classmap": ["Table.php"]
+    }
 }
