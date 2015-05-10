@@ -1,7 +1,7 @@
 {
-    "name": "prionkor/tbs-table",
-    "description": "PHP class for creating Twitter Bootstrap HTML Table",
-    "keywords": ["twitter bootstrap, HTML, Table"],
+    "name": "prionkor/html-table",
+    "description": "PHP class for creating HTML Table",
+    "keywords": ["HTML, Table"],
     "license": "MIT",
     "author" :  [
         {
