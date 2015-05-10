@@ -1,6 +1,6 @@
 <?php
 
-namespace Sisir\TwitterBootstrap;
+namespace Prionkor;
 
 class Table{
     public $columns = array();
